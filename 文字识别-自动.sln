@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "文字识别-自动", "文字识别-自动.pyproj", "{7FD54C0C-7F7E-42B4-A1BA-0A0E31D6126D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5300ED1A-BE5D-4AFA-9BFD-2B46BD66B2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD54C0C-7F7E-42B4-A1BA-0A0E31D6126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD54C0C-7F7E-42B4-A1BA-0A0E31D6126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947B5805-9C5E-4305-8E00-7B32AA78ECA6}
+	EndGlobalSection
+EndGlobal
